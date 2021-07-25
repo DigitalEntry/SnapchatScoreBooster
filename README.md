@@ -2,7 +2,9 @@
 
 ## Prerequisites
 An android device with USB debugging enabled, This will **NOT** work on apple devices
+
 You will need snapchat version 11.22.0.33 or below
+
 Make sure you have friends added that don't mind getting spammed with snaps, I suggest adding 180-250 celebrities and sending the snap to them
 
 ## Setup
